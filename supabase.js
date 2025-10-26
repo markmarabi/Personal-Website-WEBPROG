@@ -1,1 +1,0 @@
-vscode-remote://codespaces%2Blonely-spirit-q765wx6xpv4j3xrqx/workspaces/Vue-Personal-Website/src/supabase.js
